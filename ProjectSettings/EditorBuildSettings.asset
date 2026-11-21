@@ -5,8 +5,20 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/cooking.unity
+    guid: d73d0370651a17748a1f6954f5744f67
+  - enabled: 1
+    path: Assets/Scenes/Cooking/CookingScene.unity
+    guid: 8563d09a8770b474cab5e300017b6b7f
+  - enabled: 1
+    path: Assets/Scenes/Cooking/SelecScene.unity
+    guid: 424fb8c65deae3e47bfd7f9567c7e213
+  - enabled: 1
+    path: Assets/Scenes/Cooking/ResultScene.unity
+    guid: 5228572cd39078047ad284dafd1d6f59
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
